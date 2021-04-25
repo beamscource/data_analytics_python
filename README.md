@@ -1,2 +1,2 @@
 # data_analytics_python
-Code snippets for data analytics projects
+Collection of Python code exploring simple data analytics projects
